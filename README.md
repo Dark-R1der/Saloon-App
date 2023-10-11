@@ -1,4 +1,4 @@
-# saloonapp
+# salonapp
 
 A new Flutter project.
 
